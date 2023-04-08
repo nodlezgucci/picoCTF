@@ -11,3 +11,7 @@ We can see the length of the Linux partition under the ID of 002 - 0000202752
 2. When we've saved our answer we can connect to the picoCTF's machine with the use of the command - nc saturn.picoctf.net (port)
 After that we input the lenth of the Linux partition. Finally the flag is shown to us.
 ![SleuthkitIntro2](https://user-images.githubusercontent.com/109030111/230679422-394b7194-d72e-4a3d-b37c-ed0248513e5c.png)
+
+That wraps up my quick tutorial on the Sleuthkit Intro thank you for reading it and I hope you find it helpful!
+
+By nodlezgucci!
